@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/erzepuluh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rio haake somalinggi" height="30" width="40" /></a>
 <a href="https://instagram.com/erzepuluh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erzepuluh" height="30" width="40" /></a>
 <a href="https://medium.com/@riogeorge.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@riogeorge.n" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/erzepuluh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erzepuluh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@erzepuluh5353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erzepuluh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
